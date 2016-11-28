@@ -1,1 +1,1 @@
-# web-shopping
+# web-shopping 是毕业设计，关于大学生闲置物品交易系统的源代码。
